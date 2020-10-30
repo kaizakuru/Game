@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lvl1text0">Ноль</string>
+    <string name="lvl1text1">Один</string>
+    <string name="lvl1text2">Два</string>
+    <string name="lvl1text3">Три</string>
+    <string name="lvl1text4">Четыре</string>
+    <string name="lvl1text5">Пять</string>
+    <string name="lvl1text6">Шесть</string>
+    <string name="lvl1text7">Семь</string>
+    <string name="lvl1text8">Восемь</string>
+    <string name="lvl1text9">Девять</string>
+    //_________________________________
+    <string name="lvl2text1">I</string>
+    <string name="lvl2text2">II</string>
+    <string name="lvl2text3">III</string>
+    <string name="lvl2text4">IV</string>
+    <string name="lvl2text5">V</string>
+    <string name="lvl2text6">VI</string>
+    <string name="lvl2text7">VII</string>
+    <string name="lvl2text8">VIII</string>
+    <string name="lvl2text9">IX</string>
+    <string name="lvl2text10">X</string>
+    //_________________________________
+    <string name="lvl3text1">Гольф</string>
+    <string name="lvl3text2">Бейсбол</string>
+    <string name="lvl3text3">Теннис</string>
+    <string name="lvl3text4">Игрушка</string>
+    <string name="lvl3text5">Боулинг</string>
+    <string name="lvl3text6">Темари</string>
+    <string name="lvl3text7">Регби</string>
+    <string name="lvl3text8">Волейбол</string>
+    <string name="lvl3text9">Футбол</string>
+    <string name="lvl3text10">Баскетбол</string>
+    //_________________________________
+    <string name="lvl4text1">Ким</string>
+    <string name="lvl4text2">Пенни</string>
+    <string name="lvl4text3">Джон</string>
+    <string name="lvl4text4">Стив</string>
+    <string name="lvl4text5">Британи</string>
+    <string name="lvl4text6">Алекс</string>
+    <string name="lvl4text7">Майкол</string>
+    <string name="lvl4text8">Амели</string>
+    <string name="lvl4text9">Том</string>
+    <string name="lvl4text10">Джек</string>
+    //_________________________________
+    <string name="lvl5text1">Персик</string>
+    <string name="lvl5text2">Гайка</string>
+    <string name="lvl5text3">Арбуз</string>
+    <string name="lvl5text4">Колесо</string>
+    <string name="lvl5text5">Тыква</string>
+    <string name="lvl5text6">Мяч</string>
+    <string name="lvl5text7">Яблоко</string>
+    <string name="lvl5text8">Мяч</string>
+    <string name="lvl5text9">Морковь</string>
+    <string name="lvl5text10">Мяч</string>
+    <string name="lvl5text11">Яйца</string>
+    <string name="lvl5text12">Шлем</string>
+    <string name="lvl5text13">Капуста</string>
+    <string name="lvl5text14">Шапка</string>
+    <string name="lvl5text15">Орехи</string>
+    <string name="lvl5text16">Коробка</string>
+    <string name="lvl5text17">Лук</string>
+    <string name="lvl5text18">Блокнот</string>
+    <string name="lvl5text19">Бананы</string>
+    <string name="lvl5text20">Вок</string>
+    //_________________________________
+    <string name="lvl6text1">Австралия</string>
+    <string name="lvl6text2">Антарктида</string>
+    <string name="lvl6text3">Южная Америка</string>
+    <string name="lvl6text4">Северная Америка</string>
+    <string name="lvl6text5">Африка</string>
+    <string name="lvl6text6">Евразия</string>
+    //_________________________________
+    <string name="lvl7text1">Казахстан</string>
+    <string name="lvl7text2">Бразилия</string>
+    <string name="lvl7text3">Финляндия</string>
+    <string name="lvl7text4">Нигерия</string>
+    <string name="lvl7text5">США</string>
+    <string name="lvl7text6">Перу</string>
+    <string name="lvl7text7">Гренландия</string>
+    <string name="lvl7text8">Аргентина</string>
+    <string name="lvl7text9">Россия</string>
+    <string name="lvl7text10">Чили</string>
+    <string name="lvl7text11">Монголия </string>
+    <string name="lvl7text12">Филиппины</string>
+    <string name="lvl7text13">Италия</string>
+    <string name="lvl7text14">Замбия</string>
+    <string name="lvl7text15">Польша</string>
+    <string name="lvl7text16">Мадагаскар</string>
+    <string name="lvl7text17">Германия</string>
+    <string name="lvl7text18">Южная Африка</string>
+    <string name="lvl7text19">Великобритания</string>
+    <string name="lvl7text20">Боливия</string>
+    //_________________________________
+    <string name="lvl8text1">Окунь</string>
+    <string name="lvl8text2">Лев</string>
+    <string name="lvl8text3">Щука</string>
+    <string name="lvl8text4">Волк</string>
+    <string name="lvl8text5">Лещ</string>
+    <string name="lvl8text6">Кот</string>
+    <string name="lvl8text7">Карась</string>
+    <string name="lvl8text8">Ёж</string>
+    <string name="lvl8text9">Акула</string>
+    <string name="lvl8text10">Дельфин</string>
+    //_________________________________
+
+    <string name="lvl9text1">Лев</string>
+    <string name="lvl9text2">Окунь</string>
+    <string name="lvl9text3">Волк</string>
+    <string name="lvl9text4">Щука</string>
+    <string name="lvl9text5">Кот</string>
+    <string name="lvl9text6">Лещ</string>
+    <string name="lvl9text7">Ёж</string>
+    <string name="lvl9text8">Карась</string>
+    <string name="lvl9text9">Дельфин</string>
+    <string name="lvl9text10">Акула</string>
+    //_________________________________
+    <string name="lvl10text1">Mepкуpий</string>
+    <string name="lvl10text2">Mapc</string>
+    <string name="lvl10text3">Beнepa</string>
+    <string name="lvl10text4">Зeмля</string>
+    <string name="lvl10text5">Heптун</string>
+    <string name="lvl10text6">Уpaн</string>
+    <string name="lvl10text7">Caтуpн</string>
+    <string name="lvl10text8">Юпитep</string>
+
+</resources>

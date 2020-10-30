@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SomeQuestions</string>
+    <string name="start">Start</string>
+    <string name="back">Back</string>
+    <string name="level">Level:</string>
+    <string name="level1">Level 1</string>
+    <string name="level2">Level 2</string>
+    <string name="level3">Level 3</string>
+    <string name="level4">Level 4</string>
+    <string name="level5">Level 5</string>
+    <string name="level6">Level 6</string>
+    <string name="level7">Level 7</string>
+    <string name="level8">Level 8</string>
+    <string name="level9">Level 9</string>
+    <string name="level10">Level 10</string>
+    <string name="textcontinue">Continue</string>
+</resources>

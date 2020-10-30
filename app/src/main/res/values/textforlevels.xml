@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lvl1text0">Zero</string>
+    <string name="lvl1text1">One</string>
+    <string name="lvl1text2">Two</string>
+    <string name="lvl1text3">Three</string>
+    <string name="lvl1text4">Four</string>
+    <string name="lvl1text5">Five</string>
+    <string name="lvl1text6">Six</string>
+    <string name="lvl1text7">Seven</string>
+    <string name="lvl1text8">Eight</string>
+    <string name="lvl1text9">Nine</string>
+    //_________________________________
+    <string name="lvl2text1">I</string>
+    <string name="lvl2text2">II</string>
+    <string name="lvl2text3">III</string>
+    <string name="lvl2text4">IV</string>
+    <string name="lvl2text5">V</string>
+    <string name="lvl2text6">VI</string>
+    <string name="lvl2text7">VII</string>
+    <string name="lvl2text8">VIII</string>
+    <string name="lvl2text9">IX</string>
+    <string name="lvl2text10">X</string>
+    //_________________________________
+    <string name="lvl3text1">Golf</string>
+    <string name="lvl3text2">Baseball</string>
+    <string name="lvl3text3">Tennis</string>
+    <string name="lvl3text4">Toy</string>
+    <string name="lvl3text5">Bowling</string>
+    <string name="lvl3text6">Temari</string>
+    <string name="lvl3text7">Rugby</string>
+    <string name="lvl3text8">Volleyball</string>
+    <string name="lvl3text9">Football</string>
+    <string name="lvl3text10">Basketball</string>
+    //_________________________________
+    <string name="lvl4text1">Kim</string>
+    <string name="lvl4text2">Penny</string>
+    <string name="lvl4text3">John</string>
+    <string name="lvl4text4">Steve</string>
+    <string name="lvl4text5">Britney</string>
+    <string name="lvl4text6">Alex</string>
+    <string name="lvl4text7">Michael</string>
+    <string name="lvl4text8">Amelie</string>
+    <string name="lvl4text9">Tom</string>
+    <string name="lvl4text10">Jack</string>
+    //_________________________________
+    <string name="lvl5text1">Peach</string>
+    <string name="lvl5text2">Nut</string>
+    <string name="lvl5text3">Watermelon</string>
+    <string name="lvl5text4">Wheel</string>
+    <string name="lvl5text5">Pumpkin</string>
+    <string name="lvl5text6">Ball</string>
+    <string name="lvl5text7">Apple</string>
+    <string name="lvl5text8">Ball</string>
+    <string name="lvl5text9">Carrot</string>
+    <string name="lvl5text10">Ball</string>
+    <string name="lvl5text11">Eggs</string>
+    <string name="lvl5text12">Helmet</string>
+    <string name="lvl5text13">Cabbage</string>
+    <string name="lvl5text14">Cao</string>
+    <string name="lvl5text15">Nuts</string>
+    <string name="lvl5text16">Box</string>
+    <string name="lvl5text17">Bow</string>
+    <string name="lvl5text18">Notebook</string>
+    <string name="lvl5text19">Bananas</string>
+    <string name="lvl5text20">Wok</string>
+    //_________________________________
+    <string name="lvl6text1">Australia</string>
+    <string name="lvl6text2">Antarctica</string>
+    <string name="lvl6text3">South America</string>
+    <string name="lvl6text4">North America</string>
+    <string name="lvl6text5">Africa</string>
+    <string name="lvl6text6">Eurasia</string>
+    //_________________________________
+    <string name="lvl7text1">Kazakhstan</string>
+    <string name="lvl7text2">Brazil</string>
+    <string name="lvl7text3">Finland</string>
+    <string name="lvl7text4">Nigeria</string>
+    <string name="lvl7text5">USA</string>
+    <string name="lvl7text6">Peru</string>
+    <string name="lvl7text7">Greenland</string>
+    <string name="lvl7text8">Argentina</string>
+    <string name="lvl7text9">Russia</string>
+    <string name="lvl7text10">Chile</string>
+    <string name="lvl7text11">Mongolia</string>
+    <string name="lvl7text12">Philippines</string>
+    <string name="lvl7text13">Italy</string>
+    <string name="lvl7text14">Zambia</string>
+    <string name="lvl7text15">Poland</string>
+    <string name="lvl7text16">Madagascar</string>
+    <string name="lvl7text17">Germany</string>
+    <string name="lvl7text18">South Africa</string>
+    <string name="lvl7text19">UK</string>
+    <string name="lvl7text20">Bolivia</string>
+    //_________________________________
+    <string name="lvl8text1">Perch</string>
+    <string name="lvl8text2">Lion</string>
+    <string name="lvl8text3">Pike</string>
+    <string name="lvl8text4">Wolf</string>
+    <string name="lvl8text5">Bream</string>
+    <string name="lvl8text6">Cat</string>
+    <string name="lvl8text7">Crucian</string>
+    <string name="lvl8text8">Hedgehog</string>
+    <string name="lvl8text9">Shark</string>
+    <string name="lvl8text10">Dolphin</string>
+    //_________________________________
+
+    <string name="lvl9text1">Lion</string>
+    <string name="lvl9text2">Perch</string>
+    <string name="lvl9text3">Wolf</string>
+    <string name="lvl9text4">Pike</string>
+    <string name="lvl9text5">Cat</string>
+    <string name="lvl9text6">Bream</string>
+    <string name="lvl9text7">Hedgehog</string>
+    <string name="lvl9text8">Crucian</string>
+    <string name="lvl9text9">Dolphin</string>
+    <string name="lvl9text10">Shark</string>
+    //_________________________________
+    <string name="lvl10text1">Mercury</string>
+    <string name="lvl10text2">Mars</string>
+    <string name="lvl10text3">Venus</string>
+    <string name="lvl10text4">Earth</string>
+    <string name="lvl10text5">Neptune</string>
+    <string name="lvl10text6">Uran</string>
+    <string name="lvl10text7">Saturn</string>
+    <string name="lvl10text8">Jupiter</string>
+
+</resources>
